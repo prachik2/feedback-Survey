@@ -1,0 +1,26 @@
+.login-div
+{
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    height: 40%;
+
+}
+
+.form-control-login
+{
+	width:80% !important;
+	margin-right: 50px;
+	margin-left: 50px;
+   
+}
+
+.login-error
+{
+	display:none;
+	color:red;
+	margin-left: 50px;
+	margin-top: 10px
+}
